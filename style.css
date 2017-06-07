@@ -1,0 +1,407 @@
+@font-face {
+    font-family: Futura;
+    src: url(FuturaLT-Light.ttf);
+}
+
+
+
+
+
+
+
+#nav {
+    background: black;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    color: white;
+    z-index: 3;
+    font-family: Futura;
+}
+
+#nav{
+    
+    margin:0;
+    padding:0;
+    text-align:center;
+    opacity: 80%;
+}
+#nav li{
+    display:inline;
+
+}
+#nav a{
+    display:inline-block;
+    padding:10px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  #home {
+    /* The file size of this background image is 93% smaller
+     * to improve page load speed on mobile internet connections */
+    background-image: url(Images/static2.jpg);
+  }
+    }
+
+#home{
+
+    font-family: Futura; 
+    
+    color: black;
+
+    position: ;
+    background-color:  red;
+    margin-top: -2%;
+    background-image: url(Images/static2.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: 80%;
+    padding-bottom: %;
+    background-position: right;
+
+
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+ 
+
+}
+
+
+#STAN{
+
+
+}
+
+
+#STN{
+font-size: 20vw;
+
+font-family: Futura;
+color: white;
+text-align: center;
+vertical-align: middle;
+padding-bottom: 0%;
+margin-bottom: -3%;
+margin-top: 5%;
+padding-top: 10%;
+
+
+}
+
+#BALK{
+
+width: 60%;
+margin-top: 0%;
+border: none;
+height: 5px;
+/* Set the hr color */
+color: white; /* old IE */
+background-color: white; /* Modern Browsers */
+}
+
+#kort{
+font-size: 1.5vw;
+font-family: Futura;
+color: white;
+text-align: center;
+font-weight: bold;
+vertical-align: middle;
+padding-bottom: 0%;
+
+
+}
+
+#knoppen{
+
+width: 100%;
+height: 20%;
+z-index: 1;
+
+}
+
+
+.container {
+
+ 
+  text-align: center;
+
+  line-height: 100px;
+}
+
+.container a {
+  color: white;
+  text-decoration: none;
+  margin: 8px;
+}
+
+.container a:hover {
+  color: #B71C1C;
+  opacity: 0.7;
+}
+
+#infopagina{
+
+  width: 100%;
+
+position: ;
+float: left;
+background-color: white;
+margin-top: 0%;
+padding-bottom: 5%;
+font-family: Futura;
+
+}
+
+
+#title{
+
+   font-family: Futura;
+    font-size: 10vh;
+    margin-top: 5%;
+    text-align: center;
+
+}
+
+#circles{
+
+margin-left: 48.5%;
+
+}
+
+#circel1, #circel2 , #circel3, #circel4 {
+   
+    width: 10px;
+    height: 10px;
+    background: #B71C1C;
+    border-radius: 50%;
+    float: left;
+    
+    margin-left: 2px;
+
+
+}
+
+#titeltekst{
+    font-size: 6vh;
+    font-weight: 300;
+    margin-left: 5%;
+    text-align: center;
+
+
+}
+
+
+#coloms{
+
+
+    margin-left: 27%;
+    width: 50%;
+    text-align: center;
+    font-family: Futura;
+    font-weight: bold;
+    font-size: 2.5vh;
+
+}
+
+
+
+
+
+#werk{
+
+font-family: Futura; 
+    float: left;
+    color: black;
+    z-index: 10;
+    position: ;
+    background-color:  red;
+    background-image: url(Images/static3.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: 80%;
+
+    background-position: top ;
+
+
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+
+#werktitel{
+
+   font-family: Futura;
+    font-size: 10vh;
+    margin-top: 4%;
+    text-align: center;
+    color: white;
+
+}
+
+
+#vrijetijdtitle{
+
+color: white;
+margin-top: 35%;
+
+
+}
+#vrijetijdtitle1{
+
+color: white;
+margin-top: 40%;
+margin-left: 4%;
+
+
+}
+
+
+#boxes2{
+  
+    
+    width: 100%;
+    padding: 10px;
+    margin-top: %;
+    text-align: center;
+
+}
+
+#schoolbox2, #schoolbox30, #schoolbox23, #schoolbox24 {
+
+    width: 20%;
+    height: 40%;
+    float: left;
+    padding: ;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    
+    background-color: grey;
+    cursor: pointer;
+    margin-top: 5%;
+   background-position: center;
+     text-align: center;
+-webkit-filter: brightness(50%);
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-o-transition: all 1s ease;
+-ms-transition: all 1s ease;
+transition: all 1s ease;
+    
+
+
+}
+
+#schoolbox2:hover, #schoolbox30:hover, #schoolbox23:hover, #schoolbox24:hover{
+-webkit-filter: brightness(100%);
+}
+
+
+
+#schoolbox2{
+
+background-image: url("Images/Studioc.png");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+#schoolbox30{
+
+background-image: url("Images/Teamup.png");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+#schoolbox23{
+
+background-image: url("Images/Statsfc.png");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+#schoolbox24{
+
+background-image: url("Images/Nedgeleerd.png");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
+#overlay10, #overlay20, #overlay30, #overlay40, #overlay50, #overlay60{
+position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 1;
+
+}
+#specialBox10, #specialBox20, #specialBox30, #specialBox40, #specialBox50, #specialBox60{
+    position: absolute;
+    top: 20%;
+    left: 12%;
+  float: left;
+    z-index: 1;
+    overflow: hidden;
+    color: white;
+    width: 100%;
+    display: none;
+    text-align: left;
+
+
+
+}
+
+#specialBox10 h1, #specialBox20 h1, #specialBox30 h1, #specialBox40 h1, #specialBox50 h1, #specialBox60 h1{
+  text-align: left;
+  font-size: 130%;
+  margin-left: 3%;
+  
+}
+
+#specialBox10 p, #specialBox20 p, #specialBox30 p, #specialBox40 p, #specialBox50 p, #specialBox60 p{
+  width: 35%;
+  margin-left: 3%;
+  float: left;
+  margin-right: 2%;
+}
+.pictureProject{
+  margin-top: 20%;
+  float: left;
+}
+
+#specialBox10 button,#specialBox20 button,#specialBox30 button,#specialBox40 button,#specialBox50 button,#specialBox60 button{
+  
+  background: transparent;
+  border: none;
+   margin-left: 60%;
+   cursor:pointer;
+}
+
+#buttonClose{
+  width: 10%;
+  float: right;
+  cursor:pointer;
+  
+
+}
